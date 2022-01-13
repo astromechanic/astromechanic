@@ -4,13 +4,6 @@ I work as a web developer in a Salesoforce Partner company.
 
 ### My skills
 
-- Javascript (ES5+)
-- Lightning Web Components
-- Salesforce: Sales Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware)
-- HTML
-- CSS
-- git
-
 | Field      | Skills |
 | ----------- | ----------- |
 | Basic Web Technologies      | HTML, CSS, Javascript (ES5+)       |
@@ -18,3 +11,7 @@ I work as a web developer in a Salesoforce Partner company.
 | Salesforce Knowledge   | Sales Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware)       |
 | Version control   | git       |
 
+### My certifications
+
+- Salesforce Certified Sales Cloud Consultant
+- Salesforce Certified Administrator
