@@ -4,7 +4,7 @@ I work as a web developer in a Salesoforce Partner company.
 
 ### My skills
 
-* Basic Web Technologies:
+* Basic Web Technologies
   -  HTML
   -  CSS
   -  Javascript (ES5+)
