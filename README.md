@@ -11,6 +11,7 @@ I work as a web developer in a Salesoforce Partner company.
 * Development on Salesforce Platform
   - Lightning Web Components
   - Flow
+  - sfdx
 * Salesforce Knowledge
   - Sales Cloud
   - B2B Commerce on Lightning Experience
