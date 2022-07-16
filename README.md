@@ -12,8 +12,10 @@ I work as a web developer in a Salesoforce Partner company.
   - Lightning Web Components
   - Flow
   - sfdx
+  - Apex
 * Salesforce Knowledge
   - Sales Cloud
+  - Experience Cloud
   - B2B Commerce on Lightning Experience
   - B2C Commerce (Demandware)
 * Version control
@@ -23,3 +25,4 @@ I work as a web developer in a Salesoforce Partner company.
 
 - Salesforce Certified Sales Cloud Consultant
 - Salesforce Certified Administrator
+- B2B Commerce for Administrators Accredited Professional (Lightning Experience)
