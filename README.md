@@ -19,5 +19,6 @@ git
 ### My certifications
 
 - B2B Commerce for Administrators Accredited Professional (Lightning Experience)
+- B2B Commerce for Developers Accredited Professional (Lightning Experience)
 - Salesforce Certified Sales Cloud Consultant
 - Salesforce Certified Administrator
