@@ -10,8 +10,8 @@ Lightning Web Components, Apex, SFDX, Flow, Copado
 #### Salesforce Knowledge
 Experience Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware), Sales Cloud
 
-#### Web Technologies
-HTML, CSS, Javascript, Web components
+#### Programming Skills
+JavaScript, HTML, CSS, Bootstrap, Python
 
 #### Version control
 git
