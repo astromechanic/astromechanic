@@ -5,7 +5,7 @@ I work as a web developer in a Salesoforce Partner company.
 ### My skills
 
 #### Development on Salesforce Platform
-Lightning Web Components, Apex, SFDX, Flow, Copado
+Lightning Web Components, Apex, Salesforce CLI, Flow, Copado
 
 #### Salesforce Knowledge
 Experience Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware), Sales Cloud
