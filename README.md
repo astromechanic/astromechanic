@@ -1,6 +1,6 @@
 ## Hi there, I'm Violetta
 
-I work as a web developer in a Salesoforce Partner company. 
+I work as a Salesforce developer in a Salesforce Partner company. 
 
 ### My skills
 
@@ -8,7 +8,7 @@ I work as a web developer in a Salesoforce Partner company.
 Lightning Web Components, Apex, Salesforce CLI, Flow, Copado
 
 #### Salesforce Knowledge
-Experience Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware), Sales Cloud
+Experience Cloud, B2B Commerce on Lightning Experience, B2C Commerce (Demandware)
 
 #### Programming Skills & Technologies
 JavaScript, HTML, CSS, Bootstrap, Python, conda, git
